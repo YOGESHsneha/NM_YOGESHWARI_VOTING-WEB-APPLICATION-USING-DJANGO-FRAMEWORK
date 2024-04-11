@@ -1,3 +1,9 @@
+PROJECT IMPLEMENTED BY : Yogeshwari K
+LOGIN DETAILS:
+EMAIL: yogeshwari@gmail.com
+pass: yogesh@231
+
+
 # E - Voting Created Using Django 
 This E - Voting System Was Developed With Django(Python Framework).
 Feel free to make changes based on your requirements.
